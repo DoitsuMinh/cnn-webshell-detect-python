@@ -1,0 +1,15 @@
+[submodule "dataset/black/PHP-backdoors"]
+	path = dataset/black/PHP-backdoors
+	url = https://github.com/bartblaze/PHP-backdoors.git
+[submodule "dataset/black/php-webshells"]
+	path = dataset/black/php-webshells
+	url = https://github.com/JohnTroony/php-webshells.git
+[submodule "dataset/black/webshell"]
+	path = dataset/black/webshell
+	url = https://github.com/tennc/webshell
+[submodule "dataset/white/phpmyadmin"]
+	path = dataset/white/phpmyadmin
+	url = https://github.com/phpmyadmin/phpmyadmin
+[submodule "dataset/white/WordPress"]
+	path = dataset/white/WordPress
+	url = https://github.com/WordPress/WordPress
