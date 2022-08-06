@@ -16,7 +16,7 @@ Initialize dataset，black(webshell) and white(non-webshell) samples are located
 git submodule init
 git submodule update
 ```
-Note: This system using only 2137 samples
+Note: This system using only 2373 samples
 
 
 ## Instruction for use
@@ -30,13 +30,19 @@ Train a new model：
 Run Demo（default port `0.0.0.0:5000`）：
 
 ```
-./demo.py
+./demo_multi.py
 ```
 
 Train new model, and test it：
 
 ```
 ./test_model_metric_new.py
+```
+
+Trying gnb and mlp model, and test it：
+
+```
+./test_model.py
 ```
 
 
